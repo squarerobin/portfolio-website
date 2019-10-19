@@ -26,8 +26,9 @@
 		});
 
 	// Scrolly.
+	/*stretch: change the js code so the speed is 500 instead of 1000, so the animation will be 2x slower*/ 
 		$('#nav a, .scrolly').scrolly({
-			speed: 1000,
+			speed: 500, 
 			offset: function() { return $nav.height(); }
 		});
 
