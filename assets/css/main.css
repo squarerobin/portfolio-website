@@ -2457,3 +2457,7 @@ input, select, textarea {
 	.mongodb-icon{
 		width:100%;
 	}
+
+	.code-on-github{
+		color: black;
+	}
