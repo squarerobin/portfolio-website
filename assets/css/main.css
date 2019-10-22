@@ -2443,3 +2443,17 @@ input, select, textarea {
 					}
 
 	}
+
+
+
+	.html5{
+		color: orangered;
+	}
+	.javascript{
+		color: black;
+		background-color: white;
+	}
+
+	.mongodb-icon{
+		width:100%;
+	}
